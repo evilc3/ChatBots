@@ -1,0 +1,8 @@
+Learn about different chatbots.
+
+
+1. A simple chat bot which can do only Intents recognization using mlp.
+
+2. Chatbot based on seq-2-seq method.
+
+3. Chatbot Using for Intents + entity recognization.
